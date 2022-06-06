@@ -1,4 +1,4 @@
-![Genesis-logo](imgs/Genesis AI (1).png)
+![Genesis-logo](./imgs/Genesis AI (1).png)
 
 
 
